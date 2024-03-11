@@ -1,0 +1,38 @@
+header{
+    background-image: url("imagem/fund.jpg");
+    text-align: center;
+    font-family:"cursive",times, serif;
+    text-align: center;
+   }
+body{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+section{
+    display: flex;
+    margin-right:0;
+    padding:120;
+}
+
+div{
+    padding: 20;
+    margin: 0;
+    justify-content: space-around;
+
+}
+
+h2{
+    text-align:center;
+}
+
+img{
+    max-width:300px;
+    width: auto;
+}
+
+h3{
+    text-align:justify;
+}
+
